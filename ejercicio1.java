@@ -1,4 +1,5 @@
 import java.util.Scanner;
+// 1. Realice un algoritmo que almacene números en una matriz de 6 * 6. Imprimir la suma de los números almacenados en la matriz.
 public class ejercicio1 {
     public static void main(String[] args){
         

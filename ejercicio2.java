@@ -2,6 +2,8 @@ import java.util.Random;
 import java.util.Collections;
 import java.util.ArrayList;
 import java.util.List;
+//2.Realice un algoritmo que llene una matriz de 5 * 5 y determine la posición 
+//[fila ,columna] del número mayor almacenado en la matriz. Los números son diferentes.
 public class ejercicio2 {
     public static void main(String[]args){
 
